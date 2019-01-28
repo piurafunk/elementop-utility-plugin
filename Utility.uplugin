@@ -1,0 +1,26 @@
+{
+	"FileVersion" : 3,
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"FriendlyName" : "Utility Plugin",
+	"Description" : "Contains helper/utility functions for Unreal 
+Engine",
+	"Category" : "GameplayComponents",
+	"CreatedBy" : "Element OP Games",
+	"CreatedByURL" : "https://elementopgames.com",
+	"DocsURL" : "",
+	"MarketplaceURL" : "",
+	"SupportURL" : "",
+	"EnabledByDefault" : false,
+	"CanContainContent" : false,
+	"IsBetaVersion" : false,
+	"Installed" : false,
+	"Modules" :
+	[
+		{
+			"Name" : "Utility",
+			"Type" : "Developer",
+			"LoadingPhase" : "Default"
+		}
+	]
+}
